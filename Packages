@@ -1,32 +1,17 @@
-Package: enigma2-plugin-settings-henksat-rotating
-Version: 1.0+git66+149aa85_r0
+Package: enigma2-plugin-settings-emil.motor
+Version:1.0+git6074+5be3f1d_r0
 Section: base
 Architecture: all
 MD5Sum: 1d6966f3491dc1ccbeb204867d51e1f9
 Size: 140358
-Filename: enigma2-plugin-settings-henksat-rotating_1.0+git66+149aa85_r0_all.ipk
-Description: henksat enigma2 settings rotating
+Filename: enigma2-plugin-settings-emil.motor_1.0+git6074+5be3f1d_r0_all.ipk
+Description: emil enigma2 settings rotating
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: https://github.com/OpenPLi/HenksatSettings
-OE: enigma2-plugin-settings-henksat-rotating
+Source: https://github.com/emil237/oe-emil-settings-feed/raw/main
+OE: enigma2-plugin-settings-emil.motor
 License: Proprietary
 
-Package: 
-enigma2-plugin-settings-emil.motor
-Version:1.0+git6074+5be3f1d_r0
-Section: base
-Architecture:all
-MD5Sum: 6bafd253097f213e769b0a0231b8330b
-Size: 70213
-Filename: enigma2-plugin-settings-emil.motor_1.0+git6074+5be3f1d_r0_all.ipk
-Description: emil E2 Settings File motor
-Maintainer: OE-core Developers <openembedded-core@lists.openembedded.org>
-Priority: optionel
-Source https://github.com/emil237/oe-emil-settings-feed/raw/main
-OE: 
-enigma2-plugin-settings-emil.motor
-Lisence: Proprietary
 
 package: enigma2-plugin-settings-romeh.motor
 version:1.0+git6074+5be3f1d_r0
