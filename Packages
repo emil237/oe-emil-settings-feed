@@ -17,7 +17,7 @@ enigma2-plugin-settings-emil.motor
 Version:1.0+git6074+5be3f1d_r0
 Section: base
 Architecture:all
-MD5Sum: 1d6966f3491dc1ccbeb204867d51e1f9
+MD5Sum: 1d6966f3491dc1ccbeb204867d51e167
 Size: 70213
 Filename: enigma2-plugin-settings-emil.motor_1.0+git6074+5be3f1d_r0_all.ipk
 Description: emil enigma2 settings
