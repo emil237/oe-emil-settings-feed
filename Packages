@@ -14,10 +14,10 @@ License: Proprietary
 
 Package: 
 enigma2-plugin-settings-emil-motor
-Version:1.0+git6074+5be3f1d_r0
+Version:1.0+git6074+5be3f1d_r3
 Section: base
 Architecture:all
-MD5Sum: 6bafd253097f213e769b0a0231b8330b
+MD5Sum: 1d6966f3491dc1ccbeb204867d51e1f9
 Size: 70213
 Filename: enigma2-plugin-settings-emil-motor_1.0+git6074+5be3f1d_r3_all.ipk
 Description: emil E2 Settings File motor
