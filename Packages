@@ -13,7 +13,7 @@ OE: enigma2-plugin-settings-henksat-rotating
 License: Proprietary
 
 Package: 
-enigma2-plugin-settings-emil-motor
+enigma2-plugin-settings-emil.motor
 Version:1.0+git6074+5be3f1d_r0
 Section: base
 Architecture:all
